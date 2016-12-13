@@ -1,2 +1,4 @@
 # AdventOfCode2016
-TESTING 123
+For refreshing skills in different programming languages.
+First 6 exercises will be done in C++...
+
